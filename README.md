@@ -10,7 +10,7 @@ Data Science | Machine Learning | Software Development
 I am a second-year undergraduate student with a strong foundation in data science and machine learning.  
 I have worked on projects involving data analysis, visualization, and model building.  
 
-Currently, I am focusing on strengthening my problem-solving skills through Data Structures and Algorithms in C++, while continuing to build practical ML and AI-based applications.
+Currently, I am focusing on strengthening my problem-solving skills through Data Structures and Algorithms in C++, while continuing to build practical ML and AI-based projects.
 
 ---
 
