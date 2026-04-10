@@ -17,7 +17,7 @@ Currently, I am focusing on strengthening my problem-solving skills through Data
 ## Skills
 
 **Languages**  
-Python, C, C++, SQL  
+C, C++, Python, SQL  
 
 **Data Science & Machine Learning**  
 NumPy, Pandas  
