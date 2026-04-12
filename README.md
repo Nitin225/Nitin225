@@ -1,53 +1,74 @@
-# Nitin
+<h1 align="center">Hi, I'm Nitin 👋</h1>
 
-ECE Undergraduate at IIT Bhubaneswar  
-Data Science | Machine Learning | Software Development  
-
----
-
-## About
-
-I am a second-year undergraduate student with a strong foundation in data science and machine learning.  
-I have worked on projects involving data analysis, visualization, and model building.  
-
-Currently, I am focusing on strengthening my problem-solving skills through Data Structures and Algorithms in C++, while continuing to build practical ML and AI-based projects.
+<p align="center">
+  A undergrad who loves building ML models, analyzing data, and solving algorithmic problems.
+</p>
 
 ---
 
-## Skills
+## About Me
 
-**Languages**  
-C, C++, Python, SQL  
+- Second-year undergraduate student
+- Interested in **data science, machine learning, and AI**
+- Enjoy exploring how models work under the hood – from neural networks to large language models
+- I like turning raw data into meaningful insights and practical ML-powered projects
 
-**Data Science & Machine Learning**  
-NumPy, Pandas  
-Matplotlib, Seaborn  
-Scikit-learn  
-Data Cleaning, Data Analysis  
+---
 
-**Deep Learning / AI**  
-Neural Networks (fundamentals)  
-TensorFlow, PyTorch  
-Large Language Models (LLMs - basic exposure)  
+## Tech Stack
 
-**Core Focus**  
-Data Structures and Algorithms (C++)  
+### Languages
 
-**Tools**  
-Git, GitHub, Jupyter Notebook  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="34" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="34" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="34" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" height="34" />
+</p>
+
+### Data Science & ML
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" height="34" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" height="34" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" height="34" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" height="34" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" height="34" />
+</p>
+
+### Tools & Platforms
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="34" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="34" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" height="34" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" height="34" />
+</p>
+
+### Domains & Interests
+
+- Data Analysis & Visualization
+- Machine Learning & Deep Learning
+- Large Language Models (LLMs)
+- Data Structures & Algorithms (C++)
+
+---
+
+---
+
+## GitHub Overview
+
+- Repositories: Mix of ML experiments, data projects, and DSA practice
+- Always iterating on current projects and open to feedback / collaboration
+
+You can often find me:
+- Building and experimenting with ML models
+- Analyzing datasets and creating visualizations
+- Grinding DSA problems in C++
+
+---
 
 
-<!--
-**Nitin225/Nitin225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Thanks for stopping by! Feel free to explore my repos, open an issue, or drop a message 👇
+</p>
