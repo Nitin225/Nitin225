@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nitin 👋</h1>
+<h1 align="center">Hi, I'm Nitin </h1>
 
 <p align="center">
   A undergrad who loves building ML models, analyzing data, and solving algorithmic problems.
