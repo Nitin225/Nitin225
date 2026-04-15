@@ -49,7 +49,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" height="34" />
 </p>
 
-### What I Work On
+### What I Work in
 
 - Data Analysis & Visualization (Matplotlib, Seaborn, SHAP)
 - Machine Learning & Deep Learning (Scikit-learn, XGBoost)
