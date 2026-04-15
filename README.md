@@ -17,7 +17,7 @@
 
 ## My Toolkit
 
-### Code I Write In
+### Code I Write in
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="34" />
